@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , i appreciate that you are here. 👋
 <br />
 🔭 I’m currently working on Mobile Application Development (Android) <br />
 🌱 I’m currently learning Flutter for hybrid mobile application development <br />
