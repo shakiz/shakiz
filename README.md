@@ -3,7 +3,7 @@
 <p><em>Jr. Mobile Application Developer at <a href="https://www.stargroup-bd.com/">Star Computer Systems Limites</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: sakhawat-hossain](https://img.shields.io/badge/-sakhawat-hossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sakhawat-hossain-762688127)](https://www.linkedin.com/in/sakhawat-hossain-762688127)
+[![Linkedin: sakhawat-hossain-762688127](https://img.shields.io/badge/sakhawat-hossain-762688127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sakhawat-hossain-762688127)](https://www.linkedin.com/in/sakhawat-hossain-762688127)
 [![GitHub Thaiane](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
 
 
