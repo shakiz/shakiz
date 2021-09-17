@@ -1,11 +1,11 @@
 <h2> Hi 👋 , I'm Sakhawat Hossain.Nickname is Shakil!
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h3><p><em>Software Engineer at <a href="https://www.stargroup-bd.com/">Star Computer Systems Limited</em></p></h3>
+<h3><p><em>Software Engineer at <a href="https://bangladesh.savethechildren.net/">Save The Children in Bangladewsh</em></p></h3>
 
 [![GitHub Shakiz](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
 [![Linkedin Badge](https://img.shields.io/badge/sakhawat-hossain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakhawat-hossain-762688127/) 
 [![Medium Badge](https://img.shields.io/badge/-@shakil335-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shakil335)](https://medium.com/@shakil335)
-[![Gmail Badge](https://img.shields.io/badge/sakhawat35-1335@diu.edu.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakhawat35-1335@diu.edu.bd)](mailto:sakhawat35-1335@diu.edu.bd)
+[![Gmail Badge](https://img.shields.io/badge/sakhawat35-1335@diu.edu.bd-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakhawat35-1335@diu.edu.bd)](mailto:shakil.py@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
