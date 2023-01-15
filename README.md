@@ -15,10 +15,5 @@ A little more about me...
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering. <br />
 
 
-## 💻 Open Source Work Stats
-
-
-![shakiz Github stats](https://github-readme-stats.vercel.app/api?username=shakiz&show_icons=true)
-
 
 
