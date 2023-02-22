@@ -10,9 +10,9 @@
 
 A little more about me...  
 
-🔭 I’m currently working on Mobile Application Development (Android Native and Flutter). <br />
-🌱 I’m currently learning diffent architectural components in mobile application development. <br />
-👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering. <br />
+🔭 I’m currently working on Mobile Application Development (Android Native and Flutter).<br />
+🌱 I’m currently learning diffent architectural components in mobile application development.<br />
+👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br />
 
 
 
