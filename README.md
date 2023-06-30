@@ -4,7 +4,7 @@
 
 [![GitHub Shakiz](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=shakiz)-->
-![](https://komarev.com/ghpvc/?username=rdnasim)
+![](https://komarev.com/ghpvc/?username=shakiz)
 [![Linkedin Badge](https://img.shields.io/badge/sakhawat-hossain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakhawat-hossain-762688127/) 
 [![Medium Badge](https://img.shields.io/badge/-@shakil335-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shakil335)](https://medium.com/@shakil335)
 [![Gmail Badge](https://img.shields.io/badge/shakil.py@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakil.py@gmail.com)](mailto:shakil.py@gmail.com)
@@ -16,6 +16,7 @@ A little more about me...
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
 
 ![shakiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiz&theme=vue-dark&hide_border=false)
+![shakiz's Stats](https://github-readme-stats.vercel.app/api?username=shakiz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 
 
