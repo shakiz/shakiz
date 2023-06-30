@@ -15,7 +15,7 @@ A little more about me...
 🌱 I’m currently learning diffent architectural components in mobile application development.<br/>
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
 
-https://github-readme-streak-stats.herokuapp.com/?user=shakiz&theme=vue-dark&hide_border=false
+![shakiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiz&theme=vue-dark&hide_border=false)
 
 
 
