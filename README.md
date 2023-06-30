@@ -16,6 +16,7 @@ A little more about me...
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
 
 ![shakiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shakiz&theme=vue-dark&hide_border=false)
+<br/><br/>
 ![shakiz's Stats](https://github-readme-stats.vercel.app/api?username=shakiz&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 
