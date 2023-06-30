@@ -1,6 +1,6 @@
 <h2> Hi 👋 , I'm Sakhawat Hossain.Nickname is Shakil!
 <img align='right' src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" width="230">
-<h3><p><em>Software Engineer at <a href="https://brainstation-23.com/">Brain Station 23</em></p></h3>
+<h3><p><em>Software Engineer-II at <a href="https://brainstation-23.com/">Brain Station 23</em></p></h3>
 
 [![GitHub Shakiz](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=shakiz)-->
@@ -11,9 +11,11 @@
 
 A little more about me...  
 ⚙️ I work on `.java`, `.dart`, and `.kt`<br />
-🔭 I’m currently working on Mobile Application Development (Android Native and Flutter).<br />
-🌱 I’m currently learning diffent architectural components in mobile application development.<br />
-👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br />
+🔭 I’m currently working on Mobile Application Development (Android Native and Flutter).<br/>
+🌱 I’m currently learning diffent architectural components in mobile application development.<br/>
+👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
+
+https://github-readme-streak-stats.herokuapp.com/?user=shakiz&theme=vue-dark&hide_border=false
 
 
 
