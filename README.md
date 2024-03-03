@@ -1,6 +1,6 @@
 <h2> Hi 👋 , I'm Sakhawat Hossain.Nickname is Shakil!
 <img align='right' src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" width="230">
-<h3><p><em>Senior Software Engineer at <a href="https://www.cefalo.com/en/">Cefalo</em></p></h3>
+<h3><p><em>Senior Software Engineer at <a href="https://www.cefalo.com/en/" target="_blank">Cefalo</em></p></h3>
 
 [![GitHub Shakiz](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=shakiz)-->
