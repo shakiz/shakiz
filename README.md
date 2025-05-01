@@ -25,10 +25,11 @@ A little more about me...
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
-### 📔 Latest Blog posts
+### 📔 Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Compose Essentials](https://medium.com/@shakilbd/compose-essentials-561ce949535f)
+- [SSL Pinning in Android](https://medium.com/@shakilbd/ssl-pinning-in-android-securing-network-calls-the-right-way-a4b67074481c)
 - [Kotlin MultiPlatform vs Flutter](https://medium.com/@shakilbd/kotlin-multiplatform-vs-flutter-08f8f6178011)
 - [Flutter Essentials For Beginners](https://medium.com/@shakilbd/flutter-essentials-for-beginners-f5b60a708bb0)
 - [Wireframe and Prototyping](https://medium.com/@shakilbd/wireframe-and-prototyping-part-1-8ad2e89c85d3)
