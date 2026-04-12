@@ -13,9 +13,13 @@ A little more about me...
 🔭 I’m currently working on Mobile Application Development (Android Native with Kotlin, Jetpack Compose and Flutter).<br/>
 🌱 I’m currently learning different architectural components in mobile application development.<br/>
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
+## Statistics
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shakiz&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Sakhawat's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shakiz&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Sakhawat's Top Languages" height="180" />
+</p>
 
 ### 📔 Recent Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Compose Essentials](https://medium.com/@shakilbd/compose-essentials-561ce949535f)
 - [SSL Pinning in Android](https://medium.com/@shakilbd/ssl-pinning-in-android-securing-network-calls-the-right-way-a4b67074481c)
