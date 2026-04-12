@@ -2,6 +2,7 @@
 <h3><p><em>Senior Software Engineer at <a href="https://www.cefalo.com/en/" target="_blank">Cefalo</em></p></h3>
 
 [![GitHub Shakiz](https://img.shields.io/github/followers/shakiz?label=follow&style=social)](https://github.com/shakiz)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C288%20hrs%2031%20mins-blue?style=flat)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=shakiz)-->
 ![](https://komarev.com/ghpvc/?username=shakiz)
 [![Linkedin Badge](https://img.shields.io/badge/sakhawat-hossain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakhawat-hossain-762688127/) 
@@ -13,10 +14,8 @@ A little more about me...
 🔭 I’m currently working on Mobile Application Development (Android Native with Kotlin, Jetpack Compose and Flutter).<br/>
 🌱 I’m currently learning different architectural components in mobile application development.<br/>
 👯 I’m looking to collaborate on any kind to open source project related to the field of software engineering.<br/><br/>
-## Statistics
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shakiz&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Sakhawat's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shakiz&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Sakhawat's Top Languages" height="180" />
+<p align="start">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shakiz&theme=radical" alt="Sakhawat's Contributions" height="170" />
 </p>
 
 ### 📔 Recent Blog posts
