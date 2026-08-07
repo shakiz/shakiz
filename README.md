@@ -19,7 +19,7 @@ A little more about me...
 
 ### 📔 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [XML to Jetpack Compose + Navigation 2]([https://medium.com/@shakilbd/compose-essentials-561ce949535f](https://medium.com/@shakilbd/how-we-migrated-a-production-android-app-from-xml-to-jetpack-compose-navigation-2-step-by-step-0082ca94d3ad))
+- [XML to Jetpack Compose + Navigation 2]([https://medium.com/@shakilbd/compose-essentials-561ce949535f](https://medium.com/@shakilbd/how-we-migrated-a-production-android-app-from-xml-to-jetpack-compose-navigation-2-step-by-step-0082ca94d3ad)
 - [Compose Essentials](https://medium.com/@shakilbd/compose-essentials-561ce949535f)
 - [SSL Pinning in Android](https://medium.com/@shakilbd/ssl-pinning-in-android-securing-network-calls-the-right-way-a4b67074481c)
 - [Kotlin MultiPlatform vs Flutter](https://medium.com/@shakilbd/kotlin-multiplatform-vs-flutter-08f8f6178011)
